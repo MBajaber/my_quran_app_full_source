@@ -1,0 +1,9 @@
+.emam-section {
+  padding: 32px 0;
+}
+
+.emams-boxes {
+  display: grid;
+  grid-gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}

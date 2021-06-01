@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/heartBox/heartBox.css"],"names":[],"mappings":"AAAA,mBACE,4BAA6B,CAC7B,iBAAkB,CAClB,eAAgB,CAChB,cACF","file":"5.bcd82390.chunk.css","sourcesContent":[".heart_box_section {\r\n  background-color: transparent;\r\n  border-radius: 6px;\r\n  padding: 4px 7px;\r\n  cursor: pointer;\r\n}\r\n"]}

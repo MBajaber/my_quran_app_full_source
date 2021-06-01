@@ -1,0 +1,7 @@
+.play-btn {
+  background-color: transparent;
+}
+
+.play-btn > svg {
+  cursor: pointer;
+}

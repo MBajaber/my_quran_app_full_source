@@ -1,0 +1,13 @@
+button {
+  cursor: pointer;
+  outline: 0;
+  border: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}

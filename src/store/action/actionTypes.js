@@ -1,0 +1,43 @@
+//  Get Data
+export const GET_IMAM_DATA = 'GET_IMAM_DATA';
+export const GET_SERVER = 'GET_SERVER';
+export const SURA_LINK = 'SURA_LINK';
+export const SURA_LINK_RANDOM = 'SURA_LINK_RANDOM';
+
+//  Favorite
+export const ADD_TO_PLAYLIST = 'ADD_TO_PLAYLIST';
+export const PLAYLIST_STORAGE = 'PLAYLIST_STORAGE';
+export const REMOVE_ITEM_FROM_PLAYLIST = 'REMOVE_ITEM_FROM_PLAYLIST';
+export const DELETE_FAVOURITE_FROM_SURABOX = 'DELETE_FAVOURITE_FROM_SURABOX';
+export const IS_FROM_FAVOURITE_PLAYLIST = 'IS_FROM_FAVOURITE_PLAYLIST';
+export const iS_FAVORITE_PAGE = 'iS_FAVORITE_PAGE';
+export const EMPTY_FAVOURITE_FROM_SURABOX = 'EMPTY_FAVOURITE_FROM_SURABOX';
+
+//  Setting
+export const CLOSE_ASIDE = 'CLOSE_ASIDE';
+export const OPEN_ASIDE = 'TOGGLE_ASIDE';
+export const SHOW_PLAYER = 'SHOW_PLAYER';
+//  Radio
+export const iS_RADIO_PAGE = 'iS_RADIO_PAGE';
+export const START_RADIO_REQUEST = 'START_RADIO_REQUEST';
+export const STOP_RADIO_REQUEST = 'STOP_RADIO_REQUEST';
+
+//  Theme
+export const IS_THEME_IS_DARK = 'IS_THEME_IS_DARK';
+export const THEME_STORAGE = 'THEME_STORAGE';
+
+//  Language
+export const CHOOSE_LANGUAGE = 'CHOOSE_LANGUAGE';
+export const SITE_LANGUAGE = 'SITE_LANGUAGE';
+
+// Request
+export const START_REQUEST = 'START_REQUEST';
+export const SUCCESS_REQUEST = 'SUCCESS_REQUEST';
+export const FAIL_REQUEST = 'FAIL_REQUEST';
+export const START_MAIN = 'START_MAIN';
+export const SUCCESS_MAIN = 'SUCCESS_LOADING';
+
+// Authentication
+
+export const LOGIN = 'LOGIN';
+export const SIGNOUT = 'SIGNOUT';

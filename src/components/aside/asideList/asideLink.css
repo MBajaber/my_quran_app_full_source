@@ -1,0 +1,14 @@
+.aside-list {
+  transition: all 0.3s ease-in-out;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.aside-list:hover a {
+  background-color: #f2f3f4;
+  color: #636a6f;
+}
+
+.aside-list:hover a .aside-list-logo {
+  color: #636a6f;
+}

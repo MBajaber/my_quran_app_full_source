@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/imamBoxs/imamBoxs.css"],"names":[],"mappings":"AAAA,cACE,cACF,CAEA,aACE,YAAa,CACb,aAAc,CACd,yDACF","file":"6.4ea5a0f6.chunk.css","sourcesContent":[".emam-section {\r\n  padding: 32px 0;\r\n}\r\n\r\n.emams-boxes {\r\n  display: grid;\r\n  grid-gap: 12px;\r\n  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));\r\n}\r\n"]}
